@@ -1,0 +1,7 @@
+../Core/Src/i2c.c:37:6:MX_I2C1_Init	8	static
+../Core/Src/i2c.c:66:6:HAL_I2C_MspInit	40	static
+../Core/Src/i2c.c:94:6:HAL_I2C_MspDeInit	16	static
+../Core/Src/i2c.c:120:6:MCP4716_Start	8	static
+../Core/Src/i2c.c:130:6:MCP4716_Configuration	32	static
+../Core/Src/i2c.c:139:6:MCP4716_WriteData	32	static
+../Core/Src/i2c.c:152:6:set_voltage	24	static
