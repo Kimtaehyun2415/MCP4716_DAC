@@ -7,3 +7,5 @@ MCU : STM32F103C8T6 // CubeIDE
 
 This code 3.3V INPUT DAC Module (set_voltage function)
 ex) set_voltage(3.3);
+
+MCP4716 source in "i2c.c"
